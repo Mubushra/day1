@@ -4,7 +4,6 @@ mystyles.css
 .header {
     width: 40%;
 }
-
 .formMain {
     display: flex;
     flex-direction: column;
